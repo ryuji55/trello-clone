@@ -1,0 +1,10 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.app {
+  background: url(../src/images/ocean.jpeg) center / cover;
+  min-height: 100vh;
+}
